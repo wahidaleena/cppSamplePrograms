@@ -15,7 +15,7 @@ cmake_minimum_required(VERSION 2.6)
 	add_executable(	friendFunction CPP_Sample/CPP/friendFunction.cpp	)
 	add_executable(	incrementOverloading CPP_Sample/CPP/incrementOverloading.cpp	)
 	add_executable(	object CPP_Sample/CPP/object.cpp	)
-	add_executable(	staticMember CPP_Sample/CPP/staticMember.cpp	
+	add_executable(	staticMember CPP_Sample/CPP/staticMember.cpp	)	
 	add_executable(	constructorOverloading CPP_Sample/CPP/constructorOverloading.cpp	)
 	add_executable(	functionalTemplates CPP_Sample/CPP/functionalTemplates.cpp	)
 	add_executable(	inline CPP_Sample/CPP/inline.cpp	)
